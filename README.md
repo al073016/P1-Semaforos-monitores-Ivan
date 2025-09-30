@@ -18,4 +18,7 @@ La exclusión mutua constituye un pilar fundamental en la programación concurre
 El uso de semáforos resulta especialmente útil en contextos donde es necesario controlar cuántos procesos pueden acceder simultáneamente a un recurso limitado, ofreciendo gran versatilidad. No obstante, su uso inadecuado puede dar lugar a problemas como interbloqueos o inanición. Por otra parte, los monitores aportan una mayor simplicidad conceptual y estructural, al integrar la exclusión mutua de manera implícita y reducir la posibilidad de errores en la implementación, lo que los hace ideales en entornos de programación de alto nivel.
 En conclusión, semáforos y monitores no son mecanismos excluyentes, sino complementarios: los primeros brindan potencia y flexibilidad, mientras que los segundos ofrecen claridad y seguridad. Su adecuada aplicación permite construir sistemas concurrentes robustos, eficientes y confiables, capaces de responder a las demandas de las aplicaciones modernas en un entorno cada vez más orientado al paralelismo.
 
+4. Anexo de evidencias
+[![semaforo-cap]](semaforo-cap.png)
+
 
