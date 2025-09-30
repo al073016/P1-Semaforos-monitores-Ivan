@@ -19,6 +19,11 @@ El uso de semáforos resulta especialmente útil en contextos donde es necesario
 En conclusión, semáforos y monitores no son mecanismos excluyentes, sino complementarios: los primeros brindan potencia y flexibilidad, mientras que los segundos ofrecen claridad y seguridad. Su adecuada aplicación permite construir sistemas concurrentes robustos, eficientes y confiables, capaces de responder a las demandas de las aplicaciones modernas en un entorno cada vez más orientado al paralelismo.
 
 4. Anexo de evidencias
-[![semaforo-cap]](semaforo-cap.png)
+Semáforo
+[![semaforo-cap.png](https://i.postimg.cc/nLbZYSxn/semaforo-cap.png)](https://postimg.cc/RWRjvRqY)
+
+
+Monitor
+[![monitor-cap.png](https://i.postimg.cc/GtN639hh/monitor-cap.png)](https://postimg.cc/5QBsn4CZ)
 
 
